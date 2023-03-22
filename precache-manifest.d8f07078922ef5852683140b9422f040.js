@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8367db2d7d386e18da2c",
+    "revision": "b0d5fc391af3e1e87a4b",
     "url": "/tesla-clone/static/css/main.8c45b61e.chunk.css"
   },
   {
-    "revision": "8367db2d7d386e18da2c",
-    "url": "/tesla-clone/static/js/main.8367db2d.chunk.js"
+    "revision": "b0d5fc391af3e1e87a4b",
+    "url": "/tesla-clone/static/js/main.b0d5fc39.chunk.js"
   },
   {
     "revision": "40a913067904795b6e96",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/tesla-clone/static/js/runtime~main.2ed78890.js"
   },
   {
-    "revision": "52f6a767518922cb88c3ea5fc9b181c2",
+    "revision": "643486e141a508846ac936ec14857e65",
     "url": "/tesla-clone/index.html"
   }
 ];
